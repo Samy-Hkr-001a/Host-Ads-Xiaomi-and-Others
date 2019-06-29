@@ -1,0 +1,221 @@
+# Ads and tracking on Xiaomi devices
+0.0.0.0 api.ad.xiaomi.com 
+0.0.0.0 api.admob.xiaomi.com 
+0.0.0.0 api.d.xiaomi.com 
+0.0.0.0 a.stat.xiaomi.com 
+0.0.0.0 tracking.miui.com 
+0.0.0.0 cdn.ad.xiaomi.com 
+0.0.0.0 data.mistat.xiaomi.com 
+0.0.0.0 e.ad.xiaomi.com 
+0.0.0.0 globalapi.ad.xiaomi.com 
+0.0.0.0 new.api.ad.xiaomi.com 
+0.0.0.0 sdkconfig.ad.xiaomi.com 
+0.0.0.0 ssp.ad.xiaomi.com 
+0.0.0.0 test.ad.xiaomi.com 
+0.0.0.0 test.e.ad.xiaomi.com 
+0.0.0.0 test.new.api.ad.xiaomi.com 
+0.0.0.0 cc.sys.intl.xiaomi.com 
+0.0.0.0 cc.sys.miui.com 
+0.0.0.0 ccc.sys.miui.com 
+0.0.0.0 ccc.sys.intl.xiaomi.com 
+0.0.0.0 data.mistat.intl.xiaomi.com 
+0.0.0.0 geofence.sys.miui.com 
+0.0.0.0 abtest.mistat.xiaomi.com 
+0.0.0.0 abtest.mistat.intl.xiaomi.com 
+0.0.0.0 zeus.ad.intl.xiaomi.com 
+0.0.0.0 storeconfig.mistat.intl.xiaomi.com 
+0.0.0.0 fcanr.tracking.miui.com 
+0.0.0.0 api.ad.intl.xiaomi.com 
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com 
+0.0.0.0 tracking.intl.miui.com 
+0.0.0.0 adv.sec.intl.miui.com 
+0.0.0.0 api.brs.intl.miui.com 
+0.0.0.0 api.collect.data.intl.miui.com 
+0.0.0.0 api.hybrid.intl.xiaomi.com 
+0.0.0.0 api.sec.intl.miui.com 
+0.0.0.0 api.setting.intl.miui.com 
+0.0.0.0 authbe.sec.intl.miui.com 
+0.0.0.0 data.sec.intl.miui.com 
+0.0.0.0 zeus.ad.xiaomi.com 
+0.0.0.0 www.api.ad.intl.xiaomi.com 
+0.0.0.0 sgp.o2o.api.xiaomi.com 
+0.0.0.0 flash.sec.intl.miui.com
+
+0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 appauth.account.xiaomi.com
+0.0.0.0 app.adjust.com
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 gtm.oasisfeng.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 gate.hockeyapp.net
+0.0.0.0 api.setting.intl.miui.com
+0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 settings.prod.mozaws.net
+
+
+
+
+0.0.0.0 telemetry.api.swiftkey.com
+0.0.0.0 snippetdata.api.swiftkey.com
+0.0.0.0 data.flurry.com
+0.0.0.0 report.appmetrica.yandex.net
+0.0.0.0 report.appmetrica.webvisor.com
+0.0.0.0 adservice.google.com
+0.0.0.0 info.startappservice.com
+0.0.0.0 ms.applovin.com
+0.0.0.0 gdpr.airpush.com
+0.0.0.0 cdn.appnext.com
+0.0.0.0 admin.appnext.com
+0.0.0.0 metadata.startappservice.com
+0.0.0.0 infoevent.startappservice.com
+0.0.0.0 api.airpush.com
+0.0.0.0 apidm.airpush.com
+0.0.0.0 am.appserver-ap.com
+0.0.0.0 req.startappservice.com
+0.0.0.0 global.appnext.com
+0.0.0.0 rosenberg.appmetrica.yandex.net
+
+0.0.0.0 d.applovin.com
+0.0.0.0 a.applovin.com
+0.0.0.0 	a.applvn.com
+0.0.0.0 rt.applovin.com
+0.0.0.0 	rt.applvn.com
+0.0.0.0 ms.applvn.com
+0.0.0.0 	d.applvn.com
+0.0.0.0 applovin.com
+0.0.0.0 	api.cloudmobi.net
+0.0.0.0 	dsp.batmobi.net
+0.0.0.0 	sts.batmobi.net
+0.0.0.0 	api2.batmobi.net
+0.0.0.0 	an.batmobi.net
+0.0.0.0 	sdk.adtiming.com
+0.0.0.0 adtiming.com
+0.0.0.0 	mblapi.ssl2.duapps.com
+0.0.0.0 duapps.com
+0.0.0.0 	setting.rayjump.com
+0.0.0.0 rayjump.com
+0.0.0.0 	telemetry.sdk.inmobi.com
+
+
+
+0.0.0.0 sec.intl.miui.com
+0.0.0.0 api.sec.miui.com
+
+
+0.0.0.0 	asia.pool.ntp.org
+0.0.0.0 code.highspec.ru
+0.0.0.0 	us.galleryapi.micloud.xiaomi.net
+0.0.0.0 	account.xiaomi.com
+0.0.0.0 	api.micloud.xiaomi.net
+0.0.0.0 update.intl.miui.com
+
+0.0.0.0 pingma.qq.com
+
+
+0.0.0.0 	find.api.micloud.xiaomi.net
+0.0.0.0 	xtrapath2.izatcloud.net
+
+
+0.0.0.0 	alt4-mtalk.google.com
+0.0.0.0 	clients3.google.com
+0.0.0.0 	code.highspec.ru
+0.0.0.0 	api.sec.miui.com
+
+0.0.0.0 	global.market.xiaomi.com
+0.0.0.0 app-measurement.com
+
+
+
+
+0.0.0.0 hmma.baidu.com
+0.0.0.0 openrcv.baidu.com
+0.0.0.0 www.estrongs.com
+0.0.0.0 dxp.baidu.com
+0.0.0.0 conf.international.baidu.com
+0.0.0.0 alog.umengcloud.com
+0.0.0.0 2.android.pool.ntp.org
+0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 query.yahooapis.com
+0.0.0.0 onb9w37jw.bkt.clouddn.com
+0.0.0.0 ping.chartbeat.net
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 alog.umeng.com
+0.0.0.0 data.flurry.com
+0.0.0.0 gdpr.airpush.com
+0.0.0.0 abtest.mistat.intl.xiaomi.com
+0.0.0.0 mistat.intl.xiaomi.com
+0.0.0.0 intl.xiaomi.com
+0.0.0.0 csi.gstatic.comX
+0.0.0.0 gstatic.comX
+0.0.0.0 www.gstatic.comX
+0.0.0.0 ssl.gstatic.comX
+0.0.0.0 geomobileservices-pa.googleapis.com
+
+
+ 0.0.0.0 pixel.wp.com
+0.0.0.0 assets.adobedtm.com
+0.0.0.0 tags.bkrtx.com
+0.0.0.0 stags.bluekai.com
+0.0.0.0 id.google.comX
+0.0.0.0 platform.linkedin.com
+0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 the-eye.eu
+0.0.0.0 d31qbv1cthcecs.cloudfront.net 
+0.0.0.0 cloudfront.net
+0.0.0.0 mpsnare.iesnare.com
+0.0.0.0 js-agent.newrelic.com
+0.0.0.0 fonts-gstatic-com.cdn.ampproject.orgX
+0.0.0.0 nexus.ensighten.com
+0.0.0.0 mpsnare.iesnare.com
+0.0.0.0 analytics.mercadolibre.com.mx
+
+0.0.0.0 mtalk.google.com
+0.0.0.0 xtrapath1.izatcloud.net
+
+
+0.0.0.0 gstatic.kiwibrowser.com
+0.0.0.0 popular.kiwibrowser.com
+0.0.0.0 fonts.googleapis.comX
+0.0.0.0 fonts.gstatic.comX
+0.0.0.0 news.google.comX
+0.0.0.0 encrypted-tbn1.gstatic.comX
+0.0.0.0 encrypted-tbn3.gstatic.comX
+0.0.0.0 search.kiwibrowser.com
+
+0.0.0.0 static.xx.fbcdn.netX
+0.0.0.0 http2.mlstatic.com
+0.0.0.0 a.espncdn.com
+0.0.0.0 abs-0.twimg.com
+0.0.0.0 cdn.ampproject.org
+0.0.0.0 logos.kiwibrowser.com
+0.0.0.0 www.kiwibrowser.com
+0.0.0.0 kiwibrowser.com
+
+0.0.0.0 app-measurement.com
+0.0.0.0 ajax.googleapis.comX
+0.0.0.0 technology-inquirer-net.cdn.ampproject.org
+0.0.0.0 translate.googleapis.comX
+0.0.0.0 chromecontentsuggestions-pa.googleapis.com
+0.0.0.0 clientservices.googleapis.comX
+0.0.0.0 t0.gstatic.com
+0.0.0.0 update.googleapis.comX
+0.0.0.0 app-measurement.com
+0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 clients1.google.comX
+0.0.0.0 staticcdn.duckduckgo.com
+0.0.0.0 icons.duckduckgo.com
+0.0.0.0 lh3.ggpht.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 instagram.fmty1-1.fna.fbcdn.netX
+0.0.0.0 staticxx.facebook.comX
+0.0.0.0 fbcdn.netX
+
+0.0.0.0 static.whatsapp.net
+0.0.0.0 encrypted-tbn0.gstatic.comX
+0.0.0.0 android.clients.google.comX
+
+
+0.0.0.0 www.yj9xgu0r.com
+0.0.0.0 yj9xgu0r.com
+--------------------------------------------------------------------------------
